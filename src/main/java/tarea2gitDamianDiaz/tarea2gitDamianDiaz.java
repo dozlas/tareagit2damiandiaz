@@ -16,6 +16,8 @@ public class tarea2gitDamianDiaz {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Jugador jugador1 = new Jugador("antonio", 1, 2);
     }
     
 }
